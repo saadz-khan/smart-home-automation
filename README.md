@@ -1,4 +1,4 @@
-# smart-home-automation
+# Project Asani
 Arduino Smart Home Automation is a semester project for CS-114. It aims at making a cost effective smart home automation prototype that helps people make their life easier.
 
 # Installation Steps
